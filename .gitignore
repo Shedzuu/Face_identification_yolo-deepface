@@ -1,0 +1,26 @@
+# Ignore model files
+yolov8n.pt
+
+# Ignore everything inside the dataset folder except .gitkeep
+dataset/*
+!dataset/.gitkeep
+
+# Ignore all ZIP archives
+*.zip
+
+# Ignore other unnecessary files and folders
+__pycache__/
+*.log
+*.tmp
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.env
+*.venv
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store

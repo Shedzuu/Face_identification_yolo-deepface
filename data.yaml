@@ -1,0 +1,5 @@
+train: C:/Users/Shind/study_projects/CV_TASKS/identification_model/dataset/images/train 
+val: C:/Users/Shind/study_projects/CV_TASKS/identification_model/dataset/images/val      
+
+nc: 1  
+names: ["Human face"]  
